@@ -1,4 +1,16 @@
 {
+  "background_color": "#ffffff",
+  "description": "PHE Employee Management System with Missing Data Report, salary tracking, and CNIC photo uploads for Public Health Engineering Department. Admin: Aimal Khan Jaffer.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Employee Data",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PHE",
+  "start_url": "/",
+  "theme_color": "#1e3a8a"
+}
+{
   "name": "PHE Employee Management Pro",
   "short_name": "PHE Emp Pro",
   "description": "Complete employee management system for Public Health Engineering Department with Missing Data Report, salary tracking, CNIC photo uploads, and user management. Admin: Aimal Khan Jaffer.",
@@ -53,4 +65,5 @@
   "categories": ["business", "productivity", "government"],
   "lang": "en",
   "dir": "ltr"
+
 }
